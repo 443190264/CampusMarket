@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CampusMarket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CampusMarket_jar</output-path>
+    <root id="archive" name="CampusMarket.jar">
+      <element id="module-output" name="CampusMarket" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-j-9.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

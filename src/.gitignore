@@ -1,0 +1,15 @@
+# 忽略编译输出
+out/
+target/
+*.class
+
+# 忽略 IDE 配置
+.idea/
+*.iml
+.vscode/
+
+# 忽略数据库配置文件（防止密码泄漏）
+../db.properties
+
+# 忽略日志文件
+*.log
